@@ -38,4 +38,11 @@ ________________________________________________________________________________
 -	메뉴바는 JFrame에만 붙고, 위치 조절 불가능하기 때문에 달력과 메모장 위에 배치
 -	달력의 메모는 달을 기준으로 갱신해줘야 함-메모장 이름에 Day만 저장됨.
 
+**실행화면**
+
+![2](https://user-images.githubusercontent.com/58460122/70141656-e17d7a80-16da-11ea-86aa-eab3bcd40e22.png)
+
+![3](https://user-images.githubusercontent.com/58460122/70141672-ea6e4c00-16da-11ea-84eb-c2353b7bdb74.png)![4](https://user-images.githubusercontent.com/58460122/70141674-eb9f7900-16da-11ea-800d-68d13e2ff904.png)
+![5](https://user-images.githubusercontent.com/58460122/70141680-ecd0a600-16da-11ea-85d0-14ab63c5ef43.png)![6](https://user-images.githubusercontent.com/58460122/70141683-ee9a6980-16da-11ea-9d4b-62a2e88e93ad.png)
+
 
